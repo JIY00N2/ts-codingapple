@@ -1,4 +1,4 @@
-## 함수 rest 파라미터, destructuring 할 때 타입 지정
+## 12. 함수 rest 파라미터, destructuring 할 때 타입 지정
 
 ### ...rest 파라미터 개념
 

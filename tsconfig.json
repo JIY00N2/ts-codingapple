@@ -7,5 +7,6 @@
     // "noImplicitAny": true, // any 타입이 의도치 않게 발생할 경우 에러 발생
     "strictNullChecks": true, // null, undefined 타입에 이상한 조작하면 에러 발생
     "lib": ["es6", "DOM"]
+    // "declaration": true // ts파일마다 d.ts파일 자동생성됨
   }
 }
